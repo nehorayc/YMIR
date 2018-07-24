@@ -48,5 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Ihe Mathematics and Computer Science Department, The Open University of Israel
-* OMIlab, The Open University of Israel
+* Open Media and Information Lab (OMILab), The Open University of Israel
 * The Google API team
