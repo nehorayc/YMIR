@@ -9,15 +9,13 @@ YMIR was written for windows environment and was not tested under different oper
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 1.	Download the compressed file
 2.	Extract
 3.	Double click YMIR.exe
+```
 YMIR was written for windows environment and was not tested under different operation systems 
-
+```
 
 ```
 Guide will be relesed in future installments
@@ -48,6 +46,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* The google API team
 * Ihe Mathematics and Computer Science Department, The Open University of Israel
 * OMIlab, The Open University of Israel
+* The Google API team
