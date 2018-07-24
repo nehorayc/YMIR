@@ -41,7 +41,8 @@ Dr. Lerner Anat
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-Copyright © 2018 – The Mathematics and Computer Science Department, The Open University of Israel
+
+Source-code Copyright © 2018 – The Mathematics and Computer Science Department, The Open University of Israel
 
 ## Acknowledgments
 
