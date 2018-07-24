@@ -5,11 +5,7 @@ YMIR software is a Minimized version of existing crawlers meant for YouTube rese
 The YMIR project was written as part of a thesis in the Mathematics and Computer Science Department, The Open University of Israel
 
 ### Prerequisites
-YMIR was written for windows 
-
-```
-Give examples
-```
+YMIR was written for windows environment and was not tested under different operation systems 
 
 ### Installing
 
