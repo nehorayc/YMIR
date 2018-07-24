@@ -32,6 +32,7 @@ Guide will be relesed in future installments
 ## Authors
 Carmi Nehoray
 
+## Academic supervisors
 Dr. Avigal Mireille 
 
 Dr. Cohen Azaria 
