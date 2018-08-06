@@ -1,4 +1,4 @@
-# YMIR - Youtube Metadata Information Retriver
+# YMIR - Youtube Metadata Information Retriever
 
 YMIR software is a Minimized version of existing crawlers meant for YouTube research, by limiting the scope of the crawler we can receive results much faster and in a greater focus to our specified subject or even if extreme precision is needed gather the meta-data from a given list of YouTube videos.
 
